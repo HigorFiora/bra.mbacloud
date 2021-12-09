@@ -1,1 +1,2 @@
-# bra.mbacloud
+MBA FIAP CLOUD
+Dinamica da aula inaugural
